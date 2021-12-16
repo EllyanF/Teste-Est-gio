@@ -9,4 +9,6 @@ Criei a aplicação utilizando Orientação a Objeto, onde o principal do códig
 
 Usei if/elif/else para executar ações de acordo com o que o usuário digitar, bem para impedi-lo de inserir tarefas com os campos vazios.
 
+Tentei gerar um alert no windows que disparasse de acordo com o dia e horário da tarefa, mas não encontrei bibliotecas que aceitassem a data(ex:17/12) e o horário (14:11) e que soltassem o alerta apenas uma vez. Tentei por meio do método datetime do python estabelecendo comparação entre a data atual e a data inserida, mas o alerta não apareceu, então optei por deixar sem.
+
 
